@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String[] list = {"test","aaa","ddddd"};
+        String[] list = {"test","aaa","ffff"};
 
 
     }
